@@ -178,18 +178,6 @@ The notebook generates several publication-quality visualizations:
 
 ---
 
-## Future Improvements
-
-- [ ] Add ensemble methods (Gradient Boosting, XGBoost, LightGBM)
-- [ ] Implement PCA for dimensionality reduction analysis
-- [ ] Add SHAP values for model interpretability
-- [ ] Build a Streamlit/Flask web app for interactive predictions
-- [ ] Experiment with neural network classifiers
-- [ ] Add requirements.txt for reproducibility
-- [ ] Write unit tests for preprocessing pipeline
-
----
-
 ## Author
 
 **Naveed Ahmad**
